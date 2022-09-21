@@ -51,7 +51,7 @@ def end():
     print('Congratulations, have a nice day!')
 
 
-greet('Aid', '2020')  # change it as you need
+greet('Bottass', '2022')  # change it as you need
 remind_name()
 guess_age()
 count()
